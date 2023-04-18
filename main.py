@@ -1,5 +1,4 @@
 from classes import BissectionMethod
-import time
 
 def main():
 
